@@ -3,10 +3,9 @@
 Este é um projeto de um quadro Kanban desenvolvido em ReactJS, Local Storage e TypeScript que permite organizar e gerenciar tarefas utilizando o método Kanban. O quadro Kanban é uma ferramenta visual que ajuda as equipes a acompanhar o fluxo de trabalho e visualizar o progresso das tarefas.
 
 # Funcionalidades
-- Criação de colunas: É possível adicionar, renomear e excluir colunas no quadro Kanban. As colunas representam as etapas do fluxo de trabalho, como "A fazer", "Em progresso" e "Concluído".
+- Criação de colunas: É possível adicionar e excluir colunas no quadro Kanban. As colunas representam as etapas do fluxo de trabalho, por exemplo: "A fazer", "Em progresso" e "Concluído".
 - Criação de cartões: Os cartões são as tarefas individuais que são movidos entre as colunas. É possível criar, editar, excluir e arrastar cartões entre as colunas.
 - Arrastar e soltar: A funcionalidade de arrastar e soltar permite mover os cartões entre as colunas, proporcionando uma maneira intuitiva de gerenciar as tarefas.
-- Responsividade: O projeto é responsivo e se adapta a diferentes tamanhos de tela, permitindo uma experiência de usuário consistente em dispositivos móveis e desktops.
 
 ## Instruções de Instalação e Configuração
 
